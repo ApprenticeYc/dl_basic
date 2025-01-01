@@ -1,6 +1,5 @@
 # dl_basic
-overview
-研究生图形学方向，比较熟悉最优传输理论（Optimal Transport Theory），记录下dl相关学习的经验。
+overview一下个人背景。研究生图形学方向，比较熟悉最优传输理论（Optimal Transport Theory），工作前3年做的工程相关，后面做数据挖掘，记录下自己dl相关学习的经验。
 
 我认为deep learning和传统的算法学习路径区别很大，随着这几年的发展，已经几乎完全是一个工程问题。
 
